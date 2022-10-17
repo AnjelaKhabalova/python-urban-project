@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+Хабалова Анжела Робертовна
+https://colab.research.google.com/drive/1b5qwHsjAAB-anBC_e7hyRDbd8sa8RdHW#scrollTo=4iT2LzegmfYz
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
@@ -44,5 +44,4 @@
   > Топ 5 улиц ...  
   > Среднее количество объектов культурного наследия на одну улицу равно ...  
 
-Хабалова Анжела Робертовна
-https://colab.research.google.com/drive/1b5qwHsjAAB-anBC_e7hyRDbd8sa8RdHW#scrollTo=4iT2LzegmfYz
+
